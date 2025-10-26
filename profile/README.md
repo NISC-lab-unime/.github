@@ -1,4 +1,5 @@
 # 🧠 NISC Lab – University of Messina  
+**Laboratorio di Neuroinformatica e Scienze Cognitive (NISC)**  
 **NeuroInformatics and Cognitive Science Laboratory (NISC)**  
 _Dipartimento di Scienze Cognitive, Psicologiche, Pedagogiche e Studi Culturali_  
 _Department of Cognitive, Psychological, Pedagogical and Cultural Studies_  
@@ -29,7 +30,7 @@ Our research combines:
 
 ### 🧑‍🔬 Our Team
 **Scientific Coordinator:**  
-- Prof. Giorgio M. Grasso – Cognitive Science & Virtual Reality  
+- [Prof. Giorgio M. Grasso](https://scholar.google.com/citations?user=mlbArRoAAAAJ&hl=it) – Cognitive Science & Virtual Reality  
 
 **Core Contributors:**  
 - [Uvesh Patel](https://github.com/Uvesh-patel) – Data Science & Cognitive Systems  
