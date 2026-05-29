@@ -30,9 +30,9 @@ The NISC Lab investigates the intersection of **cognitive science**, **artificia
 
 | Project | Description | Maintainer(s) | Status |
 |---------|-------------|---------------|--------|
-| AI Therapist Avatar | Conversational therapeutic agent with affective reasoning | [Benyamin](https://github.com/BenyaminVoid), [Parham](https://github.com/TheNarratorsFrevor) | Active |
-| Acrophobia VR Environment | Virtual reality exposure therapy for fear of heights | [Parham](https://github.com/TheNarratorsFrevor) | Active |
-| NISC Wearable | Multi-sensor wearable device for ambulatory biofeedback | [Uvesh Patel](https://github.com/Uvesh-patel), [Fereydoon Yari](https://github.com/FereydoonYari) | Active |
+| AI Therapist Avatar | Conversational therapeutic agent with affective reasoning | [Benyamin](https://github.com/BenyaminVoid), Shayan | Active |
+| Acrophobia VR Environment | Virtual reality exposure therapy for fear of heights | [Benyamin](https://github.com/BenyaminVoid), Shayan | Active |
+| NISC Wearable | Multi-sensor wearable device for ambulatory biofeedback | [Parham](https://github.com/TheNarratorsFrevor) | Active |
 | Vuzix Shield — Healthcare | AR-assisted medical procedures on Vuzix Shield headsets | [David MBK](https://github.com/DavidMBK) | Completed |
 
 ---
