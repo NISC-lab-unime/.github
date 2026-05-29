@@ -26,34 +26,35 @@ The NISC Lab investigates the intersection of **cognitive science**, **artificia
 
 ---
 
-## Active Projects
+## Projects
 
-| Project | Description | Maintainer(s) | Status | Repository | Associated Papers |
-|---------|-------------|---------------|--------|------------|-------------------|
-| AI Therapist Avatar | Conversational therapeutic agent with affective reasoning | [Benyamin](https://github.com/BenyaminVoid), [The Narrator](https://github.com/TheNarratorsFrevor) | Active | [ai-therapist-avatar](https://github.com/NISC-lab-unime/ai-therapist-avatar) | — |
-| Acrophobia VR Environment | Virtual reality exposure therapy for fear of heights | [The Narrator](https://github.com/TheNarratorsFrevor) | Active | [acrophobia-vr-environment](https://github.com/NISC-lab-unime/acrophobia-vr-environment) | — |
-| NISC Wearable | Multi-sensor wearable device for ambulatory biofeedback | [Fereydoon Yari](https://github.com/FereydoonYari), [Uvesh Patel](https://github.com/Uvesh-patel) | Active | [nisc-wearable](https://github.com/NISC-lab-unime/nisc-wearable) | — |
-| Vuzix Shield — Healthcare | AR-assisted medical procedures on Vuzix Shield headsets | [David MBK](https://github.com/DavidMBK) | Active | [vuzix-shield-client-healthcare](https://github.com/NISC-lab-unime/vuzix-shield-client-healthcare) | — |
+| Project | Description | Maintainer(s) | Status |
+|---------|-------------|---------------|--------|
+| AI Therapist Avatar | Conversational therapeutic agent with affective reasoning | [Benyamin](https://github.com/BenyaminVoid), [Parham](https://github.com/TheNarratorsFrevor) | Active |
+| Acrophobia VR Environment | Virtual reality exposure therapy for fear of heights | [Parham](https://github.com/TheNarratorsFrevor) | Active |
+| NISC Wearable | Multi-sensor wearable device for ambulatory biofeedback | [Uvesh Patel](https://github.com/Uvesh-patel), [Fereydoon Yari](https://github.com/FereydoonYari) | Active |
+| Vuzix Shield — Healthcare | AR-assisted medical procedures on Vuzix Shield headsets | [David MBK](https://github.com/DavidMBK) | Completed |
 
 ---
 
-## Closed-Source Projects
+## Repositories
 
-These projects are developed under restrictive licenses. Each has a public status-page repository for tracking progress, releases, and documentation.
+Closed-source repositories link to a public status-page repo instead of the source.
 
-| Project | Description | Maintainer(s) | Status | Status Page | Associated Papers |
-|---------|-------------|---------------|--------|-------------|-------------------|
-| *To be listed* | — | — | — | — | — |
+| Repository | Project | Access | Link |
+|------------|---------|--------|------|
+| ai-therapist-avatar | AI Therapist Avatar | Open Source | [github](https://github.com/NISC-lab-unime/ai-therapist-avatar) |
+| acrophobia-vr-environment | Acrophobia VR Environment | Open Source | [github](https://github.com/NISC-lab-unime/acrophobia-vr-environment) |
+| nisc-wearable | NISC Wearable | Closed Source | *status page pending* |
+| vuzix-shield-client-healthcare | Vuzix Shield — Healthcare | Open Source | [github](https://github.com/NISC-lab-unime/vuzix-shield-client-healthcare) |
 
 ---
 
 ## Publications
 
-Publications are numbered for cross-reference with the project tables above.
-
-| # | Title | Authors | Venue | Year | DOI |
-|---|-------|---------|-------|------|-----|
-| — | — | — | — | — | — |
+| # | Title | Authors | Venue | Year | DOI | Projects |
+|---|-------|---------|-------|------|-----|----------|
+| — | — | — | — | — | — | — |
 
 ---
 
@@ -69,7 +70,7 @@ Publications are numbered for cross-reference with the project tables above.
 
 | Name | Role | Links |
 |------|------|-------|
-| The Narrator | Cognitive AI & XR Systems | [GitHub](https://github.com/TheNarratorsFrevor) |
+| Parham | Cognitive AI & XR Systems | [GitHub](https://github.com/TheNarratorsFrevor) |
 | Dorsa D. | XR Interaction & Biofeedback Integration | [GitHub](https://github.com/DorsaDD) |
 | Dorsasda | System Integration & VR Development | [GitHub](https://github.com/Dorsasda) |
 | Benyamin | Unity & AI Avatar Development | [GitHub](https://github.com/BenyaminVoid) |
