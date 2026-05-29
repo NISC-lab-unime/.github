@@ -70,7 +70,9 @@ Closed-source repositories link to a public status-page repo instead of the sour
 
 | Name | Role | Links |
 |------|------|-------|
-| Parham | Cognitive AI & XR Systems | [GitHub](https://github.com/TheNarratorsFrevor) |
+| Parham | Embedded Engineer | [GitHub](https://github.com/TheNarratorsFrevor) |
+| Shayan Itami | Developer | — |
+| Parsa Kazemi | Developer | — |
 | Dorsa D. | XR Interaction & Biofeedback Integration | [GitHub](https://github.com/DorsaDD) |
 | Dorsasda | System Integration & VR Development | [GitHub](https://github.com/Dorsasda) |
 | Benyamin | Unity & AI Avatar Development | [GitHub](https://github.com/BenyaminVoid) |
