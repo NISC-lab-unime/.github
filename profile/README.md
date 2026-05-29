@@ -1,52 +1,101 @@
-# 🧠 NISC Lab – University of Messina  
-**Laboratorio di Neuroinformatica e Scienze Cognitive (NISC)**  
-**NeuroInformatics and Cognitive Science Laboratory (NISC)**  
-_Dipartimento di Scienze Cognitive, Psicologiche, Pedagogiche e Studi Culturali_  
-_Department of Cognitive, Psychological, Pedagogical and Cultural Studies_  
-_University of Messina, Italy_
+<div align="center">
+
+# NISC Lab
+
+**Laboratorio di Neuroinformatica e Scienze Cognitive**  
+**NeuroInformatics and Cognitive Science Laboratory**
+
+Dipartimento di Scienze Cognitive, Psicologiche, Pedagogiche e Studi Culturali  
+University of Messina, Italy
+
+</div>
 
 ---
 
-### 🎯 Our Mission
-We explore the intersection of **Cognitive Science, Artificial Intelligence, and Extended Reality (XR)**  
-to design technologies that enhance **human well-being**, **learning**, and **mental-health support**.
+## Research Overview
 
-Our research combines:
-- 🧬 Cognitive & Affective Computing  
-- 🕶️ Virtual, Augmented, and Mixed Reality  
-- ❤️‍🔥 Biofeedback and Wearable Systems  
+The NISC Lab investigates the intersection of **cognitive science**, **artificial intelligence**, and **extended reality (XR)** to design technologies that enhance human well-being, learning, and mental health.
 
----
+**Core research areas:**
 
-### 🔬 Active Research Lines
-| Area | Example Project |
-|------|-----------------|
-| **AI & Therapeutic Systems** | [AI Therapist Avatar](https://github.com/NISC-lab-unime/ai-therapist-avatar) |
-| **VR Exposure Therapy** | [Acrophobia VR Environment](https://github.com/NISC-lab-unime/acrophobia-vr-environment) |
-| **Wearable Biofeedback** | [NISC Wearable](https://github.com/NISC-lab-unime/nisc-wearable) |
-| **Healthcare AR** | [Vuzix Shield – Healthcare Modules](https://github.com/NISC-lab-unime/vuzix-shield-client-healthcare) |
+| Area | Focus |
+|------|-------|
+| Cognitive & Affective Computing | Computational models of emotion, attention, and decision-making |
+| Virtual, Augmented, and Mixed Reality | Immersive environments for therapy, training, and assessment |
+| Biofeedback & Wearable Systems | Physiological sensing for real-time adaptive systems |
 
 ---
 
-### 🧑‍🔬 Our Team
-**Scientific Coordinator:**  
-- [Prof. Giorgio M. Grasso](https://scholar.google.com/citations?user=mlbArRoAAAAJ&hl=it) – Cognitive Science & Virtual Reality  
+## Active Projects
 
-**Core Contributors:**  
-- [Uvesh Patel](https://github.com/Uvesh-patel) – Data Science & Cognitive Systems  
-- [The Narrator](https://github.com/TheNarratorsFrevor) – Cognitive AI & XR Systems  
-- [Dorsa D.](https://github.com/DorsaDD) – XR Interaction & Biofeedback Integration  
-- [Dorsasda](https://github.com/Dorsasda) – System Integration & VR Development  
-- [Fereydoon Yari](https://github.com/FereydoonYari) – Sensor Data Processing & Unity Systems  
-- [Benyamin](https://github.com/BenyaminVoid) – Unity & AI Avatar Development  
-- [David MBK](https://github.com/DavidMBK) – Healthcare AR Systems  
+| Project | Description | Maintainer(s) | Status | Repository | Associated Papers |
+|---------|-------------|---------------|--------|------------|-------------------|
+| AI Therapist Avatar | Conversational therapeutic agent with affective reasoning | [Benyamin](https://github.com/BenyaminVoid), [The Narrator](https://github.com/TheNarratorsFrevor) | Active | [ai-therapist-avatar](https://github.com/NISC-lab-unime/ai-therapist-avatar) | — |
+| Acrophobia VR Environment | Virtual reality exposure therapy for fear of heights | [The Narrator](https://github.com/TheNarratorsFrevor) | Active | [acrophobia-vr-environment](https://github.com/NISC-lab-unime/acrophobia-vr-environment) | — |
+| NISC Wearable | Multi-sensor wearable device for ambulatory biofeedback | [Fereydoon Yari](https://github.com/FereydoonYari), [Uvesh Patel](https://github.com/Uvesh-patel) | Active | [nisc-wearable](https://github.com/NISC-lab-unime/nisc-wearable) | — |
+| Vuzix Shield — Healthcare | AR-assisted medical procedures on Vuzix Shield headsets | [David MBK](https://github.com/DavidMBK) | Active | [vuzix-shield-client-healthcare](https://github.com/NISC-lab-unime/vuzix-shield-client-healthcare) | — |
 
 ---
 
-### 🌐 Learn More
-🔗 [Official Website](https://nisc.unime.it)   
-🏛️ University of Messina, Italy  
+## Closed-Source Projects
+
+These projects are developed under restrictive licenses. Each has a public status-page repository for tracking progress, releases, and documentation.
+
+| Project | Description | Maintainer(s) | Status | Status Page | Associated Papers |
+|---------|-------------|---------------|--------|-------------|-------------------|
+| *To be listed* | — | — | — | — | — |
 
 ---
 
-> “Building intelligent, empathetic systems that understand and assist the human mind.”
+## Publications
+
+Publications are numbered for cross-reference with the project tables above.
+
+| # | Title | Authors | Venue | Year | DOI |
+|---|-------|---------|-------|------|-----|
+| — | — | — | — | — | — |
+
+---
+
+## Team
+
+**Scientific Coordinator**
+
+| Name | Role | Links |
+|------|------|-------|
+| Prof. Giorgio M. Grasso | Cognitive Science & Virtual Reality | [Google Scholar](https://scholar.google.com/citations?user=mlbArRoAAAAJ&hl=it) |
+
+**Research Staff & Contributors**
+
+| Name | Role | Links |
+|------|------|-------|
+| The Narrator | Cognitive AI & XR Systems | [GitHub](https://github.com/TheNarratorsFrevor) |
+| Dorsa D. | XR Interaction & Biofeedback Integration | [GitHub](https://github.com/DorsaDD) |
+| Dorsasda | System Integration & VR Development | [GitHub](https://github.com/Dorsasda) |
+| Benyamin | Unity & AI Avatar Development | [GitHub](https://github.com/BenyaminVoid) |
+| David MBK | Healthcare AR Systems | [GitHub](https://github.com/DavidMBK) |
+
+**Alumni / Previous Collaborators**
+
+| Name | Role |
+|------|------|
+| Uvesh Patel | Data Science & Cognitive Systems |
+| Fereydoon Yari | Sensor Data Processing & Unity Systems |
+
+---
+
+## Funding & Acknowledgments
+
+*This section will list grants, funding agencies, and institutional partners.*
+
+---
+
+## Contact
+
+- Website: [nisc.unime.it](https://nisc.unime.it)
+- Organization: [NISC-lab-unime](https://github.com/NISC-lab-unime)
+- Department: Via Concezione 6–8, 98121 Messina, Italy
+
+---
+
+> *"Building intelligent, empathetic systems that understand and assist the human mind."*
