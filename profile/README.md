@@ -60,11 +60,13 @@ Closed-source repositories link to a public status-page repo instead of the sour
 
 ## Team
 
-**Scientific Coordinator**
+**Scientific Coordinators**
 
 | Name | Role | Links |
 |------|------|-------|
 | Prof. Giorgio M. Grasso | Cognitive Science & Virtual Reality | [Google Scholar](https://scholar.google.com/citations?user=mlbArRoAAAAJ&hl=it) |
+| Prof. Pietro Perconti | — | [Google Scholar](https://scholar.google.com/citations?user=cuwYZ1oAAAAJ&hl=en) |
+| Prof. Alessio Plebe | — | [Google Scholar](https://scholar.google.com/citations?user=hBI7ybQAAAAJ&hl=en) |
 
 **Technical Staff**
 
