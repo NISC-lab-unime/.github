@@ -66,24 +66,35 @@ Closed-source repositories link to a public status-page repo instead of the sour
 |------|------|-------|
 | Prof. Giorgio M. Grasso | Cognitive Science & Virtual Reality | [Google Scholar](https://scholar.google.com/citations?user=mlbArRoAAAAJ&hl=it) |
 
-**Research Staff & Contributors**
+**Technical Staff**
 
 | Name | Role | Links |
 |------|------|-------|
-| Parham | Embedded Engineer | [GitHub](https://github.com/TheNarratorsFrevor) |
-| Shayan Itami | Developer | — |
+| Benyamin Baharizadeh | Unity & AI Avatar Development | [GitHub](https://github.com/BenyaminVoid) |
+| Parham Kasiri | Embedded Engineer | [GitHub](https://github.com/TheNarratorsFrevor) |
 | Parsa Kazemi | Developer | — |
-| Dorsa D. | XR Interaction & Biofeedback Integration | [GitHub](https://github.com/DorsaDD) |
-| Dorsasda | System Integration & VR Development | [GitHub](https://github.com/Dorsasda) |
-| Benyamin | Unity & AI Avatar Development | [GitHub](https://github.com/BenyaminVoid) |
-| David MBK | Healthcare AR Systems | [GitHub](https://github.com/DavidMBK) |
+| Shayan Itami | Developer | — |
+
+**Non-Technical Staff**
+
+| Name | Role | Links |
+|------|------|-------|
+| Anita Khalilimoghadam | Cognitive Researcher | — |
+| Faezeh Foshanjani | Cognitive Researcher | — |
+| Fateme Takloo Bighash | Cognitive Researcher | — |
+| Fatemeh Marashi | Cognitive Researcher | — |
+| Parastou Rostami | Cognitive Researcher | — |
+| Paria Daghooghi | Cognitive Researcher | — |
+| Yasamin Asadollahiborna | Cognitive Researcher | — |
 
 **Alumni / Previous Collaborators**
 
 | Name | Role |
 |------|------|
+| Dorsa Dastyafteh | XR Interaction & Biofeedback Integration |
+| Seyedehdorsa Asghari | System Integration & VR Development |
+| Fereydoon Aliyari | Sensor Data Processing & Unity Systems |
 | Uvesh Patel | Data Science & Cognitive Systems |
-| Fereydoon Yari | Sensor Data Processing & Unity Systems |
 
 ---
 
