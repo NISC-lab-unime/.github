@@ -28,7 +28,7 @@ The NISC Lab investigates the intersection of **cognitive science**, **artificia
 
 ## Projects
 
-| Project                   | Description                                               | Maintainer(s)                                       | Status    |
+| Project                   | Description                                               | Technical maintainer(s)                                       | Status    |
 | ------------------------- | --------------------------------------------------------- | --------------------------------------------------- | --------- |
 | AI Therapist Avatar       | Conversational therapeutic agent with affective reasoning | [Benyamin](https://github.com/BenyaminVoid), Shayan | Active    |
 | Acrophobia VR Environment | Virtual reality exposure therapy for fear of heights      | [Benyamin](https://github.com/BenyaminVoid), Shayan | Active    |
