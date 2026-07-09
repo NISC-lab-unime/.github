@@ -85,8 +85,8 @@ Closed-source repositories link to a public status-page repo instead of the sour
 | -------------------- | ----------------------------- | ----------------------------------------------- |
 | Benyamin Baharizadeh | Unity & AI Avatar Development | [GitHub](https://github.com/BenyaminVoid)       |
 | Parham Kasiri        | Embedded Engineer             | [GitHub](https://github.com/TheNarratorsFrevor) |
-| Parsa Kazemi         | Developer                     | —                                               |
-| Shayan Itami         | Developer                     | —                                               |
+| Parsa Kazemi         | Developer                     | [GitHub](https://github.com/parsak4936)         |
+| Shayan Itami         | Developer                     | [GitHub](https://github.com/shayanitami)        |
 
 **Non-Technical Staff**
 
